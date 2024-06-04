@@ -4,7 +4,7 @@
 #define BUFFER_MANAGER_H
 
 #include <vector>
-#include <String.h>
+#include <Arduino.h>
 #include "utilities.h"
 
 

@@ -4,7 +4,7 @@
 #define WIFI_MANAGER_H
 
 #include <vector>
-#include <String.h>
+#include <Arduino.h>
 #include <WiFi.h>
 #include <WiFiClientSecure.h>
 #include <Preferences.h>
